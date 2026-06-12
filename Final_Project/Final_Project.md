@@ -3,7 +3,7 @@
 #### 선택한 데이터
 - 이름 : Mobiles Dataset (2025)
 - 출처 : https://www.kaggle.com/datasets/abdulmalik1518/mobiles-dataset-2025
-- 크기 : 6 * 930
+- 크기 : 15 * 930
 - 형식 : csv
 
 #### 문제정의
